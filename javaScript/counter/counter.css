@@ -1,5 +1,10 @@
 body {
-  background-color: rgb(16, 92, 174);
+  background-color: #adaeaf;
+}
+
+h5 {
+  text-align:center;
+  margin-top: 100px;
 }
 
 h1 {
@@ -27,7 +32,19 @@ h1 {
 }
 .button {
   text-align: center;
+
 }
+
+
+
+.button-change {
+  background-color: aquamarine;
+  width: 200px;
+  border-radius: 35px;
+  height: 30px;
+  font-size: 20px;
+}
+
 
 .click {
   background-color: aquamarine;
