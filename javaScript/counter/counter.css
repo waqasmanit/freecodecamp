@@ -1,0 +1,59 @@
+body {
+  background-color: #adaeaf;
+}
+
+h5 {
+  text-align:center;
+  margin-top: 100px;
+}
+
+h1 {
+  text-align: center;
+  font-family: calibri;
+  font-size: 100px;
+  margin-bottom: 0px;
+}
+
+.number-container {
+  text-align: center;
+  font-size: 100px;
+  font-family: calibri;
+  width: 100%;
+  /* background-color: red; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.number {
+  /* background-color: white; */
+  width: 12rem;
+  border: 1px solid white;
+}
+.button {
+  text-align: center;
+
+}
+
+
+
+.button-change {
+  background-color: aquamarine;
+  width: 200px;
+  border-radius: 35px;
+  height: 30px;
+  font-size: 20px;
+}
+
+
+.click {
+  background-color: aquamarine;
+  width: 200px;
+  border-radius: 35px;
+  height: 30px;
+}
+
+h2 {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
